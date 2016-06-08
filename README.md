@@ -1,4 +1,4 @@
-# CostsToBuildMobileApps.md
+# Pricing
 How much does it cost to build a mobile app?
 
 # Try some cost calculators for mobile apps
