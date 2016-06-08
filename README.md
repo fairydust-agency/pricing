@@ -12,5 +12,5 @@ How much does it cost to build a mobile app?
 * [Forbes Magazine about building mobiles apps](http://www.forbes.com/sites/groupthink/2014/11/11/the-true-cost-of-building-a-mobile-app)
 * [Experience of an agency about costs of mobiles apps](http://worryfreelabs.com/cost-building-mobile-app/)
 * [Analysis by famous investors](http://savvyapps.com/blog/how-much-does-app-cost-massive-review-pricing-budget-considerations)
-* [Market Research about mobile app costs](https://clutch.co/app-developers/resources/cost-build-mobile-app-survey)
-* 
+* [Market Survey about mobile app costs](https://clutch.co/app-developers/resources/cost-build-mobile-app-survey)
+* [STATISTICS - Market Reasearch about mobile app costs](http://www.formotus.com/14018/blog-mobility/figuring-the-costs-of-custom-mobile-business-app-development)
