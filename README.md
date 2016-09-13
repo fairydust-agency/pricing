@@ -2,12 +2,13 @@
 How much does it cost to build a mobile app?
 
 # Try some cost calculators for mobile apps
-* http://howmuchtomakeanapp.com/
-* https://www.andreasley.ch/en/costcalculator/
-* http://www.kinvey.com/mbaas-savings-calculator
+* [Cost calculator #1] (http://howmuchtomakeanapp.com/)
+* [Cost calculator #2] (https://www.andreasley.ch/en/costcalculator/)
+* [Cost calculator #3] (http://www.kinvey.com/mbaas-savings-calculator)
 
 # Check some market research
 * [How much does an app cost? => About as much as a car](http://blog.darwinapps.com/post/36041399961/appcostscar)
+* [Cost of developing a Tinder like app] (http://www.peerbits.com/blog/cost-developing-tinder-like-app.html)
 * [What does the process involve?](http://desmart.com/blog/how-much-for-an-app-estimation-the-agile-way)
 * [Forbes Magazine about building mobiles apps](http://www.forbes.com/sites/groupthink/2014/11/11/the-true-cost-of-building-a-mobile-app)
 * [Experience of an agency about costs of mobiles apps](http://worryfreelabs.com/cost-building-mobile-app/)
